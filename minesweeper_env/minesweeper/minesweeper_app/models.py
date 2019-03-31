@@ -8,7 +8,7 @@ class Storage(models.Model):
     id= models.IntegerField(default=0,primary_key=True)
 
     def __str__(self):
-        return "ass"+str(self.id);
+        return str(self.id);
 
 class Game(models.Model):
     #has a Board
