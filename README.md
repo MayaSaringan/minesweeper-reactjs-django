@@ -1,5 +1,6 @@
 # minesweeper-reactjs-django
 Built off the reactjs tutorial for tic tac toe
+right click flagging not implemented yet
 
 # dependencies
 nodejs, python3, virtualenv
